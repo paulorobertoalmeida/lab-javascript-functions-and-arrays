@@ -1,15 +1,22 @@
 // Iteration #1: Find the maximum
-const maxOfTwoNumbers = (number) => Math.max(){
+const maxOfTwoNumbers = (num1, num2) => {
+  if (num1 === num2){
+    return 'this numbers are equal'
+  } else {
+  let myNumber = Math.max(num1, num2)
+  return myNumber;
+ }
+}
 
-
-}≥
-
+console.log(maxOfTwoNumbers(10, 3));
 
 
 // Iteration #2: Find longest word
 const words = ['mystery', 'brother', 'aviator', 'crocodile', 'pearl', 'orchard', 'crackpot'];
 
-function findLongestWord() {}
+const findLongestWord(element) {
+  let element = element.length 
+}
 
 
 
