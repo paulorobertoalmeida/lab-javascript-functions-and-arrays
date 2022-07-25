@@ -1,5 +1,8 @@
 // Iteration #1: Find the maximum
-function maxOfTwoNumbers() {}
+const maxOfTwoNumbers = (number) => Math.max(){
+
+
+}≥
 
 
 
